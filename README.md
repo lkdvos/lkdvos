@@ -9,4 +9,4 @@ My research focuses on the development of tensor network techniques to study com
 - Creating a MatLab tensor network library
 
 ### Get in touch
-- Feel free to email me at [lukas.devos@ugent.be](mailto:lukas.devos@ugent.be)
+- Feel free to email me at [ldevos98@gmail.com](mailto:ldevos98@gmail.com)
